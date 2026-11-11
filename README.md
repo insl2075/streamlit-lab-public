@@ -2,6 +2,8 @@
 
 Streamlit과 OpenAI API를 이용한 질의응답, 이미지 생성, 채팅, PDF 검색 웹 앱입니다.
 
+[앱 실행](https://insl2075-ai-lab.streamlit.app/)
+
 ## 바로 실행
 
 Python 3.12 환경에서 `streamlit_app.py`가 있는 폴더에서 실행합니다.
